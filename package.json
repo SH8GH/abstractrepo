@@ -30,6 +30,7 @@
     "tslib": "^2.6.2",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5",
+    "vite-node": "^1.6.0",
     "vitest": "^1.6.0"
   },
   "keywords": [

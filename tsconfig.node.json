@@ -2,11 +2,13 @@
   "compilerOptions": {
     "composite": true,
     "skipLibCheck": true,
-    "module": "ESNext",
+    "module": "NodeNext",
     "target": "ESNext",
-    "moduleResolution": "bundler",
+    "moduleResolution": "NodeNext",
     "allowSyntheticDefaultImports": true,
-    "strict": true
+    "strict": true,
+    "experimentalDecorators": true,
+    "allowJs": true
   },
   "include": ["vitest.config.ts", "tsup.config.ts"]
 }

@@ -12,6 +12,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "emitDeclarationOnly": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
 
     /* Linting */
     "strict": true,
